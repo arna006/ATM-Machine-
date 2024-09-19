@@ -24,7 +24,7 @@ public class AtmMachine {
             }
         }
 
-        // Meny
+
         while (true) {
             System.out.println("\nChoose one of the options below: ");
             System.out.println("1. Withdraw Money");
